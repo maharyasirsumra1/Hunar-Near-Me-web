@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hunar Near Me | ہنر آپ کے قریب</title>
+  <meta name="description" content="Find trusted local electricians, plumbers, mechanics, tutors and more across Pakistan." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>" />
+  <script src="/js/theme.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@500;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a href="#/" class="brand">
+        <span class="brand-logo">🔧</span>
+        <span><strong id="brandName">Hunar Near Me</strong><small data-i18n="brandSub">ہنر آپ کے قریب</small></span>
+      </a>
+      <nav class="menu" id="menu">
+        <a href="#/" data-i18n="navHome">Home</a>
+        <a href="#/workers" data-i18n="navFind">Find workers</a>
+        <a href="#/request" data-i18n="navRequest">Request service</a>
+        <a href="#/join" data-i18n="navJoin">Join as worker</a>
+        <a href="#/track" data-i18n="navTrack">Track request</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="theme-toggle" data-theme-toggle type="button" aria-label="Switch to dark mode" title="Switch to dark mode">🌙</button>
+        <button class="lang-btn" id="langBtn" type="button">اردو</button>
+        <button class="menu-btn" id="menuBtn" type="button" aria-label="Menu">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" class="container page"></main>
+
+  <footer class="footer" id="footer"></footer>
+  <div id="toasts" class="toast-wrap"></div>
+
+  <script src="/js/site.js"></script>
+</body>
+</html>

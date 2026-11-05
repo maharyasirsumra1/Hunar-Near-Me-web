@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>Admin | Hunar Near Me</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>" />
+  <script src="/js/theme.js"></script>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <!-- Login -->
+  <div id="loginView" class="login-wrap hidden">
+    <form class="card login" data-form="login">
+      <button class="theme-toggle" data-theme-toggle type="button" aria-label="Switch to dark mode" title="Switch to dark mode">🌙</button>
+      <div class="login-brand">🔧</div>
+      <h2>Admin sign in</h2>
+      <p class="muted">Hunar Near Me control centre</p>
+      <label>Username<input name="username" required autocomplete="username"></label>
+      <label>Password<input type="password" name="password" required autocomplete="current-password"></label>
+      <p class="error" id="loginErr"></p>
+      <button class="btn btn-primary btn-block" type="submit">Sign in</button>
+    </form>
+  </div>
+
+  <!-- Application -->
+  <div id="appView" class="admin-layout hidden">
+    <aside class="sidebar">
+      <div class="side-brand"><span>🔧</span><div><strong>Hunar Near Me</strong><small>Admin panel</small></div></div>
+      <nav class="side-nav" id="nav">
+        <a href="#/dashboard" data-page="dashboard">📊 Dashboard</a>
+        <a href="#/requests" data-page="requests">📩 Service requests <span class="badge-count hidden"></span></a>
+        <a href="#/workers" data-page="workers">👷 Workers <span class="badge-count hidden"></span></a>
+        <a href="#/categories" data-page="categories">🧰 Services</a>
+        <a href="#/locations" data-page="locations">📍 Locations</a>
+        <a href="#/ads" data-page="ads">📢 Ads &amp; banners</a>
+        <a href="#/settings" data-page="settings">⚙️ Settings</a>
+        <a href="#/notifications" data-page="notifications">🔔 Notifications</a>
+        <a href="#/account" data-page="account">👤 Account</a>
+      </nav>
+      <button class="btn btn-ghost btn-block side-logout" data-act="logout">Log out</button>
+    </aside>
+
+    <div class="admin-main">
+      <header class="admin-top">
+        <h2 id="pageTitle">Dashboard</h2>
+        <div class="top-right">
+          <a href="/" target="_blank" rel="noopener">View website ↗</a>
+          <button class="theme-toggle" data-theme-toggle type="button" aria-label="Switch to dark mode" title="Switch to dark mode">🌙</button>
+          <button class="bell" data-act="go" data-page="notifications" aria-label="Notifications">
+            🔔<span id="bellCount" class="count hidden">0</span>
+          </button>
+          <span class="who" id="whoami"></span>
+        </div>
+      </header>
+      <main id="page" class="page-admin"></main>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <div class="modal-head">
+        <h3 id="modalTitle"></h3>
+        <button class="icon-btn" data-close aria-label="Close">✕</button>
+      </div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <div id="toasts" class="toast-wrap"></div>
+  <script src="/admin/pages.js"></script>
+  <script src="/admin/core.js"></script>
+</body>
+</html>

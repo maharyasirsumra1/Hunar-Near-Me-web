@@ -1,0 +1,353 @@
+# Pakistan: province | city
+# Curated district centres and commonly served towns; this is a starter list, not
+# a complete official gazetteer. Add missing places and neighborhoods in Admin.
+# New entries here are also seeded automatically on first run and database upgrade.
+# Lines starting with # are ignored. Existing items are reused, nothing is duplicated.
+
+Punjab | Lahore
+Punjab | Faisalabad
+Punjab | Rawalpindi
+Punjab | Multan
+Punjab | Gujranwala
+Punjab | Sialkot
+Punjab | Sargodha
+Punjab | Bahawalpur
+Punjab | Sheikhupura
+Punjab | Gujrat
+Punjab | Sahiwal
+Punjab | Jhelum
+Punjab | Dera Ghazi Khan
+Punjab | Rahim Yar Khan
+Punjab | Okara
+Punjab | Kasur
+Punjab | Mianwali
+Punjab | Chiniot
+Punjab | Jhang
+Punjab | Attock
+Punjab | Khanewal
+Punjab | Vehari
+Punjab | Layyah
+Punjab | Hafizabad
+Punjab | Narowal
+Punjab | Wazirabad
+Punjab | Bhakkar
+Punjab | Muzaffargarh
+Punjab | Pakpattan
+Punjab | Toba Tek Singh
+Punjab | Lodhran
+Punjab | Chakwal
+Punjab | Mandi Bahauddin
+Punjab | Nankana Sahib
+Punjab | Khushab
+Punjab | Bahawalnagar
+Punjab | Rajanpur
+Punjab | Kot Addu
+Punjab | Sadiqabad
+Punjab | Gujar Khan
+Punjab | Murree
+Punjab | Bahawalpur Cantt
+Punjab | Taxila
+Punjab | Wah Cantt
+Punjab | Kahuta
+Punjab | Kallar Syedan
+Punjab | Fateh Jang
+Punjab | Hasan Abdal
+Punjab | Pind Dadan Khan
+Punjab | Dina
+Punjab | Kharian
+Punjab | Lalamusa
+Punjab | Daska
+Punjab | Sambrial
+Punjab | Pasrur
+Punjab | Shakargarh
+Punjab | Kamoke
+Punjab | Nowshera Virkan
+Punjab | Pindi Bhattian
+Punjab | Bhalwal
+Punjab | Shahpur
+Punjab | Kot Momin
+Punjab | Mian Channu
+Punjab | Kabirwala
+Punjab | Jahanian
+Punjab | Shorkot
+Punjab | Ahmedpur East
+Punjab | Hasilpur
+Punjab | Yazman
+Punjab | Arifwala
+Punjab | Depalpur
+Punjab | Renala Khurd
+Punjab | Chunian
+Punjab | Pattoki
+Punjab | Phool Nagar
+Punjab | Chak Jhumra
+Punjab | Jaranwala
+Punjab | Samundri
+Punjab | Tandlianwala
+Punjab | Gojra
+Punjab | Kamalia
+Punjab | Chichawatni
+Punjab | Burewala
+Punjab | Mailsi
+Punjab | Dunyapur
+Punjab | Kahror Pacca
+Punjab | Alipur
+Punjab | Jatoi
+Punjab | Taunsa
+Punjab | Kot Chutta
+Punjab | Darya Khan
+Punjab | Mankera
+Punjab | Kallur Kot
+Punjab | Piplan
+Punjab | Talagang
+Punjab | Pindi Gheb
+Punjab | Jalalpur Jattan
+Punjab | Kunjah
+Punjab | Jalalpur Pirwala
+Punjab | Shujabad
+Punjab | Fort Abbas
+Punjab | Minchinabad
+Punjab | Chishtian
+Punjab | Haroonabad
+Punjab | Liaqatpur
+Punjab | Khanpur
+Punjab | Sillanwali
+Punjab | Bhera
+Punjab | Hazro
+Punjab | Jand
+
+Islamabad Capital Territory | Islamabad
+
+Sindh | Karachi
+Sindh | Hyderabad
+Sindh | Sukkur
+Sindh | Larkana
+Sindh | Shaheed Benazirabad
+Sindh | Mirpurkhas
+Sindh | Jacobabad
+Sindh | Khairpur
+Sindh | Dadu
+Sindh | Thatta
+Sindh | Badin
+Sindh | Tando Allahyar
+Sindh | Tando Muhammad Khan
+Sindh | Ghotki
+Sindh | Kashmore
+Sindh | Sanghar
+Sindh | Umerkot
+Sindh | Matiari
+Sindh | Jamshoro
+Sindh | Shikarpur
+Sindh | Kambar Shahdadkot
+Sindh | Naushahro Feroze
+Sindh | Tando Adam
+Sindh | Shahdadpur
+Sindh | Moro
+Sindh | Kandiaro
+Sindh | Mehrabpur
+Sindh | Sakrand
+Sindh | Qazi Ahmed
+Sindh | Daur
+Sindh | Hala
+Sindh | Bhit Shah
+Sindh | Tando Jam
+Sindh | Kotri
+Sindh | Sehwan Sharif
+Sindh | Manjhand
+Sindh | Matli
+Sindh | Talhar
+Sindh | Khoski
+Sindh | Kunri
+Sindh | Samaro
+Sindh | Pithoro
+Sindh | Daharki
+Sindh | Mirpur Mathelo
+Sindh | Ubauro
+Sindh | Ranipur
+Sindh | Gambat
+Sindh | Sobho Dero
+Sindh | Thari Mirwah
+Sindh | Pir Jo Goth
+Sindh | Rohri
+Sindh | Pano Aqil
+Sindh | Kandhkot
+Sindh | Tangwani
+Sindh | Thul
+Sindh | Garhi Khairo
+Sindh | Mirpur Bathoro
+Sindh | Sujawal
+Sindh | Gharo
+Sindh | Keti Bandar
+Sindh | Tando Bago
+Sindh | Jati
+Sindh | Khipro
+Sindh | Sinjhoro
+Sindh | Jam Sahib
+Sindh | Shahpur Chakar
+Sindh | Diplo
+Sindh | Islamkot
+Sindh | Nagarparkar
+Sindh | Chachro
+Sindh | Mithi
+Sindh | Rato Dero
+Sindh | Dokri
+Sindh | Bakrani
+Sindh | Ratodero
+
+Khyber Pakhtunkhwa | Peshawar
+Khyber Pakhtunkhwa | Mardan
+Khyber Pakhtunkhwa | Abbottabad
+Khyber Pakhtunkhwa | Mingora
+Khyber Pakhtunkhwa | Kohat
+Khyber Pakhtunkhwa | Dera Ismail Khan
+Khyber Pakhtunkhwa | Bannu
+Khyber Pakhtunkhwa | Mansehra
+Khyber Pakhtunkhwa | Nowshera
+Khyber Pakhtunkhwa | Charsadda
+Khyber Pakhtunkhwa | Swabi
+Khyber Pakhtunkhwa | Haripur
+Khyber Pakhtunkhwa | Chitral
+Khyber Pakhtunkhwa | Karak
+Khyber Pakhtunkhwa | Lakki Marwat
+Khyber Pakhtunkhwa | Hangu
+Khyber Pakhtunkhwa | Batkhela
+Khyber Pakhtunkhwa | Timergara
+Khyber Pakhtunkhwa | Swat
+Khyber Pakhtunkhwa | Saidu Sharif
+Khyber Pakhtunkhwa | Buner
+Khyber Pakhtunkhwa | Daggar
+Khyber Pakhtunkhwa | Upper Dir
+Khyber Pakhtunkhwa | Dir
+Khyber Pakhtunkhwa | Lower Dir
+Khyber Pakhtunkhwa | Chakdara
+Khyber Pakhtunkhwa | Upper Chitral
+Khyber Pakhtunkhwa | Drosh
+Khyber Pakhtunkhwa | Battagram
+Khyber Pakhtunkhwa | Alpuri
+Khyber Pakhtunkhwa | Besham
+Khyber Pakhtunkhwa | Takht Bhai
+Khyber Pakhtunkhwa | Rustam
+Khyber Pakhtunkhwa | Takht-e-Nasrati
+Khyber Pakhtunkhwa | Serai Naurang
+Khyber Pakhtunkhwa | Domel
+Khyber Pakhtunkhwa | Miranshah
+Khyber Pakhtunkhwa | Mir Ali
+Khyber Pakhtunkhwa | Wana
+Khyber Pakhtunkhwa | Parachinar
+Khyber Pakhtunkhwa | Sadda
+Khyber Pakhtunkhwa | Landi Kotal
+Khyber Pakhtunkhwa | Jamrud
+Khyber Pakhtunkhwa | Ghalanai
+Khyber Pakhtunkhwa | Khar
+Khyber Pakhtunkhwa | Barikot
+Khyber Pakhtunkhwa | Bahrain
+Khyber Pakhtunkhwa | Khwazakhela
+Khyber Pakhtunkhwa | Dargai
+Khyber Pakhtunkhwa | Oghi
+Khyber Pakhtunkhwa | Havelian
+Khyber Pakhtunkhwa | Paharpur
+Khyber Pakhtunkhwa | Kulachi
+Khyber Pakhtunkhwa | Daraban
+Khyber Pakhtunkhwa | Tangi
+Khyber Pakhtunkhwa | Shabqadar
+Khyber Pakhtunkhwa | Akora Khattak
+Khyber Pakhtunkhwa | Pabbi
+Khyber Pakhtunkhwa | Jehangira
+Khyber Pakhtunkhwa | Gadoon Amazai
+Khyber Pakhtunkhwa | Pabbi
+
+Balochistan | Quetta
+Balochistan | Gwadar
+Balochistan | Turbat
+Balochistan | Khuzdar
+Balochistan | Sibi
+Balochistan | Hub
+Balochistan | Chaman
+Balochistan | Zhob
+Balochistan | Loralai
+Balochistan | Pishin
+Balochistan | Kalat
+Balochistan | Dera Murad Jamali
+Balochistan | Nushki
+Balochistan | Mastung
+Balochistan | Panjgur
+Balochistan | Uthal
+Balochistan | Qila Abdullah
+Balochistan | Duki
+Balochistan | Barkhan
+Balochistan | Musakhel
+Balochistan | Ziarat
+Balochistan | Harnai
+Balochistan | Dera Bugti
+Balochistan | Sui
+Balochistan | Kohlu
+Balochistan | Jaffarabad
+Balochistan | Usta Muhammad
+Balochistan | Sohbatpur
+Balochistan | Jhal Magsi
+Balochistan | Washuk
+Balochistan | Awaran
+Balochistan | Bela
+Balochistan | Kharan
+Balochistan | Dalbandin
+Balochistan | Killa Saifullah
+Balochistan | Sherani
+Balochistan | Surab
+Balochistan | Wadh
+Balochistan | Pasni
+Balochistan | Ormara
+Balochistan | Jiwani
+Balochistan | Dasht
+Balochistan | Basima
+Balochistan | Muslim Bagh
+Balochistan | Qila Saifullah
+Balochistan | Dhadar
+Balochistan | Gandawa
+Balochistan | Bhag
+Balochistan | Mach
+Balochistan | Sangan
+Balochistan | Sanjawi
+Balochistan | Khanozai
+Balochistan | Kuchlak
+
+Azad Jammu & Kashmir | Muzaffarabad
+Azad Jammu & Kashmir | Mirpur
+Azad Jammu & Kashmir | Kotli
+Azad Jammu & Kashmir | Bhimber
+Azad Jammu & Kashmir | Rawalakot
+Azad Jammu & Kashmir | Bagh
+Azad Jammu & Kashmir | Palandri
+Azad Jammu & Kashmir | Athmuqam
+Azad Jammu & Kashmir | Hattian Bala
+Azad Jammu & Kashmir | Forward Kahuta
+Azad Jammu & Kashmir | Abbaspur
+Azad Jammu & Kashmir | Sehnsa
+Azad Jammu & Kashmir | Nakyal
+Azad Jammu & Kashmir | Dadyal
+Azad Jammu & Kashmir | Chakswari
+Azad Jammu & Kashmir | Samahni
+Azad Jammu & Kashmir | Barnala
+Azad Jammu & Kashmir | Khuiratta
+Azad Jammu & Kashmir | Charhoi
+
+Gilgit-Baltistan | Gilgit
+Gilgit-Baltistan | Skardu
+Gilgit-Baltistan | Karimabad
+Gilgit-Baltistan | Gahkuch
+Gilgit-Baltistan | Chilas
+Gilgit-Baltistan | Khaplu
+Gilgit-Baltistan | Astore
+Gilgit-Baltistan | Aliabad
+Gilgit-Baltistan | Gupis
+Gilgit-Baltistan | Yasin
+Gilgit-Baltistan | Ishkoman
+Gilgit-Baltistan | Danyor
+Gilgit-Baltistan | Jaglot
+Gilgit-Baltistan | Nagar
+Gilgit-Baltistan | Sikandarabad
+Gilgit-Baltistan | Shigar
+Gilgit-Baltistan | Ghanche
+Gilgit-Baltistan | Kharmang
+Gilgit-Baltistan | Darel
+Gilgit-Baltistan | Tangir
+Gilgit-Baltistan | Rondu
+Gilgit-Baltistan | Gultari
